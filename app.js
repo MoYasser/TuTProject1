@@ -2,8 +2,8 @@ const express = require('express');
 const app = express();
 var axios = require("axios").default;
 const mongoose = require('mongoose');
+const blogroutes = require('./routes/blog-routes');
 
-const Reports = require('./models/reports');
 
 const dbURI = 'mongodb+srv://yasser:<1234>@tutproject.ugn3w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
@@ -50,6 +50,8 @@ app.get('/about', (req, res) => {
 app.get('/blogs/create', (req, res) => {
     res.render('create', { title: 'Create a new blog' });
 });
+
+app.use(blogroutes)
 
 // 404 page
 app.use((req, res) => {
