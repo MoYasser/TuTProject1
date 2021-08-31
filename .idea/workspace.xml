@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e6f11b0-b1de-45cf-bd52-562ac2edee32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1xKCNd0jBWj1FYn1JsZAECbr194" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e6f11b0-b1de-45cf-bd52-562ac2edee32" name="Default Changelist" comment="" />
+      <created>1630094353426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630094353426</updated>
+      <workItem from="1630094359957" duration="15368000" />
+      <workItem from="1630357596322" duration="6417000" />
+      <workItem from="1630438903747" duration="1392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="200" key="#Web_Browsers" timestamp="1630096448975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="200" key="#Web_Browsers/0.0.1536.824@0.0.1536.824" timestamp="1630096448975" />
+    <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630097859915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1630097859915" />
+    <state x="548" y="116" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1630096705021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="116" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1630096705021" />
+    <state x="497" y="191" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1630099588671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="191" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824@0.0.1536.824" timestamp="1630099588671" />
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1630114779779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630114779779" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1630099588286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630099588286" />
+    <state x="642" y="309" key="Github.ShareDialog" timestamp="1630439785479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="642" y="309" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1630439785479" />
+    <state x="527" y="108" key="Github.UntrackedFilesDialog" timestamp="1630439795757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="108" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630439795757" />
+    <state width="1491" height="262" key="GridCell.Tab.0.bottom" timestamp="1630366639258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630366639258" />
+    <state width="1491" height="262" key="GridCell.Tab.0.center" timestamp="1630366639258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="262" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630366639258" />
+    <state width="1491" height="262" key="GridCell.Tab.0.left" timestamp="1630366639258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="262" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630366639258" />
+    <state width="1491" height="262" key="GridCell.Tab.0.right" timestamp="1630366639258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="262" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630366639258" />
+    <state x="517" y="113" key="RollbackChangesDialog" timestamp="1630439164216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="113" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630439164216" />
+    <state x="276" y="56" key="SettingsEditor" timestamp="1630439713358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="276" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1630439713358" />
+    <state x="360" y="144" key="Vcs.Push.Dialog.v2" timestamp="1630366757774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630366757774" />
+    <state x="559" y="292" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1630439684554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="559" y="292" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630439684554" />
+    <state x="208" y="94" key="new project wizard" timestamp="1630094857278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="208" y="94" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1630094857278" />
+  </component>
+</project>
